@@ -12,4 +12,5 @@ to see the example problem.
 M Kass, A Witkin, D Terzopoulos - International journal of computer vision, 1988
 Cited by 17619 - Related articles - All 70 versions
 
-[2]: http://www.cb.uu.se/~cris/blog/index.php/archives/217
+[2]: A simple implementation of snakes
+http://www.cb.uu.se/~cris/blog/index.php/archives/217
